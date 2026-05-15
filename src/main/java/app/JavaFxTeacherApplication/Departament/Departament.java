@@ -1,7 +1,6 @@
 package app.JavaFxTeacherApplication.Departament;
-
 import app.JavaFxTeacherApplication.Teacher.Teacher;
-import jakarta.persistence.*;
+import jakarta  .persistence.*;
 
 import java.util.LinkedHashSet;
 import java.util.Set;
